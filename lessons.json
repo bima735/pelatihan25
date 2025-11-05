@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Introduction to HTML",
+        "description": "Learn the basics of HTML, the standard markup language for creating web pages.",
+        "url": "lessons/html-introduction.html"
+    },
+    {
+        "title": "CSS Fundamentals",
+        "description": "Understand the fundamentals of CSS and how to style your web pages effectively.",
+        "url": "lessons/css-fundamentals.html"
+    },
+    {
+        "title": "JavaScript Basics",
+        "description": "Get started with JavaScript, the programming language of the web.",
+        "url": "lessons/javascript-basics.html"
+    },
+    {
+        "title": "Responsive Web Design",
+        "description": "Learn how to create web pages that look great on all devices.",
+        "url": "lessons/responsive-web-design.html"
+    },
+    {
+        "title": "Introduction to Web Accessibility",
+        "description": "Discover the importance of making web content accessible to all users.",
+        "url": "lessons/web-accessibility.html"
+    }
+]
